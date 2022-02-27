@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "jsx": "preserve",
+    "baseUrl": "src",
+    "isolatedModules": true,
+    "useDefineForClassFields": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "types": [
+      "vite/client"
+    ]
+  }
+}
