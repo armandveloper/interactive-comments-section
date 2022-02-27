@@ -1,7 +1,9 @@
+import { Comment } from '@/components';
+
 function App() {
   return (
     <div>
-      <h1>Comments Section</h1>
+      <Comment />
     </div>
   );
 }
